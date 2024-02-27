@@ -1,7 +1,11 @@
 # Compiler Design - Project 1 
 
-Team Members
-Ashley Peleg, Ariana Contes, Andres Rodriguez, Aaron Amalraj, Stephanie Sicilian
+# Team Members
+Ashley Peleg
+Ariana Contes 
+Andres Rodriguez 
+Aaron Amalraj
+Stephanie Sicilian
 
 
 This Java program is a simple lexical analyzer that tokenizes Java source code into different token types such as keywords, identifiers, constants, operators, and punctuation. It reads a Java program file and tokenizes its contents based on predefined regular expression patterns.
