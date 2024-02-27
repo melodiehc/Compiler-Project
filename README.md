@@ -1,6 +1,8 @@
 # Mini Compiler
 
 This is a mini compiler for a subset of the C language built as part of our Programming language/Implementation course (CS361)
+
+
 It is currently being built as a series of four incremental phases, each contributing a key part of the compiler.
 
 
