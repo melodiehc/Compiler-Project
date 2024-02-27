@@ -1,4 +1,4 @@
-#Compiler Design - Project 1 
+# Compiler Design - Project 1 
 
 Team Members
 Ashley Peleg, Ariana Contes, Andres Rodriguez, Aaron Amalraj, Stephanie Sicilian
