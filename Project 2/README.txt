@@ -8,7 +8,7 @@ Aaron Amalraj
 Stephanie Sicilian
 
 
-
+Build a parser by reading tokens from the lexical analyzer from Project 1.
 
 The Compiler.java file contains a Parser class that is responsible for parsing the tokenized code and constructing an Abstract Syntax Tree (AST) based on the structure and rules defined in the class. Here are some key points on how the Parser acts as a parser:
 
