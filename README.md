@@ -9,6 +9,7 @@ It is currently being built as a series of four incremental phases, each contrib
 | Phase     | Objective                                                                                    |
 |-----------|----------------------------------------------------------------------------------------------|
 | Project-1 | Building a lexical analyser using Lex for a subset of C language to tokenise a given program |
+| Project-2 | Build a parser by reading tokens from the lexical analyzer from Project 1. |
 
 
 ### Team Members
