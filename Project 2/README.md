@@ -1,4 +1,4 @@
-# Compiler Design - Project 2
+# Parser Design - Project 2
 
 ### Team Members
 Ashley Peleg
