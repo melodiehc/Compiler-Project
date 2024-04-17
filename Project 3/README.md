@@ -1,4 +1,4 @@
-# Compiler
+# Semantic Analyzer - Project 3
 
 This is a simple compiler developed in Java that performs lexical analysis, builds an Abstract Syntax Tree (AST), and conducts semantic analysis on C code. The compiler reads in a C file, tokenizes the code, constructs an AST, and performs semantic checks to ensure that the code follows correct syntax and semantics.
 
