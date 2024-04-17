@@ -1,5 +1,16 @@
 # Semantic Analyzer - Project 3
 
+### Team Members
+Ashley Peleg
+Ariana Contes 
+Andres Rodriguez 
+Aaron Amalraj
+Stephanie Sicilian
+
+
+## Build a parser by reading tokens from the lexical analyzer from Project 1.
+
+
 This is a simple compiler developed in Java that performs lexical analysis, builds an Abstract Syntax Tree (AST), and conducts semantic analysis on C code. The compiler reads in a C file, tokenizes the code, constructs an AST, and performs semantic checks to ensure that the code follows correct syntax and semantics.
 
 ## Usage
