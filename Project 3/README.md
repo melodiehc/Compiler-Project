@@ -8,9 +8,9 @@ Aaron Amalraj
 Stephanie Sicilian
 
 
-## Build a semantic analyzer for the context free grammar implemented in Project 2
+## Build a semantic analyzer for the context-free grammar implemented in Project 2
 
-This is a simple compiler developed in Java that performs lexical analysis, builds an Abstract Syntax Tree (AST), and conducts semantic analysis on C code. The compiler reads in a C file, tokenizes the code, constructs an AST, and performs semantic checks to ensure that the code follows correct syntax and semantics.
+A simple compiler developed in Java that performs lexical analysis, builds an Abstract Syntax Tree (AST), and conducts semantic analysis on C code. The compiler reads in a C file, tokenizes the code, constructs an AST, and performs semantic checks to ensure that the code follows correct syntax and semantics.
 
 ## Usage
 
@@ -47,4 +47,4 @@ The compiler recognizes the following token types during lexical analysis:
 - Operator
 - Punctuation
 
-## Contact
+
